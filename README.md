@@ -1,4 +1,5 @@
-# Market Reaction to U.S. CPI Releases (2020–2026)
+# CPI Market Impact Analysis (2020–2026)
+SQL • BigQuery • Tableau • Financial Data Analysis
 
 ## Project Overview
 
@@ -67,24 +68,41 @@ Using SQL, BigQuery and Tableau, the objective was to determine whether CPI anno
 
 ---
 
+## Business Insights
+
+The analysis suggests that CPI announcements are not necessarily associated with significantly higher average returns. However, they are disproportionately represented among the market's most volatile trading sessions.
+
+The results also indicate that larger inflation surprises tend to generate larger market reactions, particularly for growth-oriented assets such as PLTR.
+
+These findings may help investors and analysts better understand how macroeconomic information impacts market behavior.
+
+---
+
 ## Dashboards
 
 ### Dashboard 1 — Market Overview
 
-*Image will be inserted here.*
+![Dashboard 1](Dashboard%201%20-%20Reaction%20to%20CPI%20Releases.png)
+
+Overview of asset performance during CPI announcement days, including average returns, volatility and percentage of positive sessions.
 
 ### Dashboard 2 — CPI Surprise Impact
 
-*Image will be inserted here.*
+![Dashboard 2](Dashboard%202%20-%20CPI%20Surprises.png)
+
+Analysis of how low, medium and high inflation surprises affect market returns and volatility.
 
 ### Dashboard 3 — CPI vs Normal Trading Days
 
-*Image will be inserted here.*
+![Dashboard 3](Dashboard%203%20-%20CPI%20vs%20Normal.png)
+
+Comparison between CPI announcement days and regular market sessions, highlighting volatility and return differences.
 
 ### Dashboard 4 — Executive Summary
 
-*Image will be inserted here.*
+![Dashboard 4](Dashboard%204%20-%20Executive%20Summary.png)
 
+Executive overview of the most relevant insights obtained during the analysis.
 ---
 
 ## Skills Demonstrated
